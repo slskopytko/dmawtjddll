@@ -1,4 +1,4 @@
-- pipeline: srgjgqroxt
+- pipeline: Srgjgqroxt
   refs:
   - refs/heads/master
   on: CLICK
